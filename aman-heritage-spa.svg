@@ -129,13 +129,8 @@
     <linearGradient id="linear-gradient-14" x1="82.1" y1="120.69" x2="82.71" y2="45.99" xlink:href="#linear-gradient"/>
     <linearGradient id="linear-gradient-15" x1="163" y1="121.35" x2="163.61" y2="46.65" xlink:href="#linear-gradient"/>
     <linearGradient id="linear-gradient-16" x1="224.65" y1="121.85" x2="225.25" y2="47.15" xlink:href="#linear-gradient"/>
-    <filter id="drop-shadow-3" filterUnits="userSpaceOnUse">
-      <feOffset dx="10.3" dy="10.3"/>
-      <feGaussianBlur result="blur-2" stdDeviation="10.3"/>
-      <feFlood flood-color="#010101" flood-opacity=".75"/>
-      <feComposite in2="blur-2" operator="in"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
+
+    
     <linearGradient id="linear-gradient-17" x1="482.12" y1="201.46" x2="481.21" y2="38.4" xlink:href="#linear-gradient"/>
     <linearGradient id="linear-gradient-18" x1="499.1" y1="201.37" x2="498.19" y2="38.3" xlink:href="#linear-gradient"/>
     <linearGradient id="linear-gradient-19" x1="439.4" y1="201.7" x2="438.49" y2="38.64" xlink:href="#linear-gradient"/>
