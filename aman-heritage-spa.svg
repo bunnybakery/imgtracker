@@ -110,13 +110,6 @@
         fill: url(#linear-gradient-21);
       }
     </style>
-    <filter id="drop-shadow-2" filterUnits="userSpaceOnUse">
-      <feOffset dx="4.81" dy="4.81"/>
-      <feGaussianBlur result="blur" stdDeviation="7.69"/>
-      <feFlood flood-color="#010101" flood-opacity=".75"/>
-      <feComposite in2="blur" operator="in"/>
-      <feComposite in="SourceGraphic"/>
-    </filter>
     <linearGradient id="linear-gradient" x1="501.14" y1="124.1" x2="501.75" y2="49.4" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#a28263"/>
       <stop offset="1" stop-color="#e9c886"/>
